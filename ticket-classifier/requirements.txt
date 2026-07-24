@@ -1,0 +1,14 @@
+streamlit==1.42.0
+
+# Machine learning
+scikit-learn==1.2.2
+
+# Data handling
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualisation (used in diagnostics tab)
+matplotlib==3.9.4
+
+# Standard library modules used (no install needed):
+# re, io, os
