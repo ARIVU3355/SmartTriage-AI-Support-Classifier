@@ -1,0 +1,21 @@
+subject,body,category
+Payment deducted twice,My payment was deducted twice but subscription is inactive.,Billing
+Refund request,I would like a refund for the incorrect charge.,Billing
+Invoice missing,I cannot download my latest invoice.,Billing
+Server down,Production server is down and users cannot login.,Technical
+Laptop not working,My laptop shows a blue screen after update.,Technical
+VPN issue,VPN connection fails with authentication error.,Technical
+Leave application,I want to apply for annual leave next week.,HR
+Payslip request,Please share my payslip for last month.,HR
+Update bank details,I need to change my salary bank account.,HR
+Office timings,What are the office working hours?,General
+Holiday list,Can you share the company holiday calendar?,General
+Meeting room,How can I book a meeting room?,General
+Payment failed,Urgent: Payment failed but money deducted.,Billing
+Email not syncing,Outlook email is not syncing.,Technical
+Resignation policy,What is the resignation notice period?,HR
+Dress code,What is the office dress code?,General
+Password reset,I forgot my password and cannot login.,Technical
+Subscription cancellation,Please cancel my subscription.,Billing
+Attendance correction,My attendance was marked absent by mistake.,HR
+Cafeteria timings,When is the cafeteria open?,General
